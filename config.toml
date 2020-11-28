@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://examplesite.org"
+baseurl = "https://tuskbuddy.github.io"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
