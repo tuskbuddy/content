@@ -5,6 +5,7 @@ title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
+publishDir = "tuskbuddy.github.io"
 
 # output
 [outputs]
