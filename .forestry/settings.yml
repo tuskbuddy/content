@@ -41,5 +41,5 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: hugo server -D -E -F --port 1451 --bind 0.0.0.0 --renderToDisk
-    -d public
+    -d tuskbuddy.github.io
 version: 0.58.2
